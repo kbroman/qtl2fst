@@ -2,6 +2,7 @@
 
 [![R-CMD-check](https://github.com/rqtl/qtl2fst/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rqtl/qtl2fst/actions/workflows/R-CMD-check.yaml)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/qtl2fst)](https://cran.r-project.org/package=qtl2fst)
+[![r-universe badge](https://rqtl.r-universe.dev/qtl2fst/badges/version)](https://rqtl.r-universe.dev/qtl2fst)
 [![zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3237776.svg)](https://doi.org/10.5281/zenodo.3237776)
 
 [R/qtl2](https://kbroman.org/qtl2/) (aka qtl2) is a reimplementation of
