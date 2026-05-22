@@ -23,9 +23,9 @@ The genotype probabilities are extracted from the fst database. Each chromosome 
 }
 \section{Functions}{
 \itemize{
-\item \code{fst2calc_genoprob}: Deprecated version (to be deleted)
-}}
+\item \code{fst2calc_genoprob()}: Deprecated version (to be deleted)
 
+}}
 \examples{
 library(qtl2)
 grav2 <- read_cross2(system.file("extdata", "grav2.zip", package="qtl2"))
