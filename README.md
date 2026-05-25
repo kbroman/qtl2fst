@@ -50,8 +50,9 @@ guide](https://kbroman.org/qtl2/assets/vignettes/qtl2fst.html),
 available [online](https://kbroman.org/qtl2/assets/vignettes/qtl2fst.html)
 and also within R:
 
-    vignette("qtl2fst", package="qtl2fst")
-
+```r
+vignette("qtl2fst", package="qtl2fst")
+```
 
 
 ---
